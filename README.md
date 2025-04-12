@@ -5,11 +5,6 @@
 <div align="center">
 </div>
 
-###
-
-<img align="right" height="150" src="https://pixabay.com/gifs/halloween-bat-spooky-funny-1166/"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -61,10 +56,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nitishjhamb/Nitishjhamb/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">Hello World!!<br>I’m currently learning Cloud, Linux, Devops</p>
 
