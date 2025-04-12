@@ -85,6 +85,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nitishjhamb/Nitishjhamb/output/snake.svg" alt="Snake animation" />
-
-###
